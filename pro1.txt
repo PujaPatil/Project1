@@ -1,0 +1,81 @@
+
+INPUT
+ 
+
+1. Write a mapreduce and pig program to calculate the number of cases investigated under FBI
+USING MAP REDUCE
+ 
+MAPPER
+ 
+REDUCER
+ 
+DRIVER 
+OUTPUT
+ 
+USING PIG
+ 
+ 
+ 
+OUTPUT
+ 
+
+
+2. Write a mapreduce and pig program to calculate the number of cases investigated undereach FBI code 32.
+USING MAP REDUCE
+MAPPER
+ 
+
+REDUCER
+ 
+DRIVER 
+OUTPUT
+ 
+USING PIG
+ 
+ 
+ 
+OUTPUT
+ 
+
+
+3. Write a mapreduce and pig program to calculate the number of arrests in theft district wise.
+USING MAP REDUCE
+MAPPER
+ 
+
+REDUCER
+ 
+DRIVER
+ 
+
+OUTPUT
+ 
+USING PIG
+ 
+ 
+
+ 
+ 
+
+ 
+OUTPUT
+ 
+
+4. Write a mapreduce and pig program to calculate the number of arrests done between October 2014 and October 2015.
+USING MAP REDUCE
+MAPPER
+ 
+
+REDUCER
+ 
+
+DRIVER
+ 
+OUTPUT
+ 
+
+USING PIG
+ 
+ 
+ 
+ 
